@@ -1,0 +1,41 @@
+{
+  "name": "@restcraft/console",
+  "version": "0.1.0",
+  "description": "Biblioteca que facilita o print e debug de itens no console.",
+  "author": "Marcus Vinicius Mendes Goncalves <marcus@acelera.cloud>",
+  "license": "MIT",
+  "main": "./dist/index.js",
+  "scripts": {
+    "start": "nodemon -w src -x \"babel-node src --presets @babel/env\"",
+    "build-node": "babel ./src --presets @babel/env --out-dir ./dist --source-maps --copy-files",
+    "build": "yarn clear && yarn run build-node",
+    "clear": "rimraf lib",
+    "lint": "./node_modules/.bin/eslint src/*.js",
+    "test": "babel-node src/Test.js --presets @babel/env"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acelera/rc-console.git"
+  },
+  "keywords": [
+    "console",
+    "debug",
+    "restcraft"
+  ],
+  "bugs": {
+    "url": "https://github.com/acelera/rc-console/issues"
+  },
+  "homepage": "https://github.com/acelera/rc-console#readme",
+  "devDependencies": {
+    "@babel/cli": "7.11.6",
+    "@babel/core": "7.11.6",
+    "@babel/node": "7.10.5",
+    "@babel/preset-env": "7.11.5",
+    "nodemon": "2.0.4",
+    "rimraf": "^3.0.2"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "moment": "2.29.0"
+  }
+}
