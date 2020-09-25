@@ -1,5 +1,5 @@
 {
-  "name": "@restcraft/console",
+  "name": "rc-console",
   "version": "0.1.0",
   "description": "Biblioteca que facilita o print e debug de itens no console.",
   "author": "Marcus Vinicius Mendes Goncalves <marcus@acelera.cloud>",
