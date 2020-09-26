@@ -1,5 +1,6 @@
 # rc-console
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/acelera/rc-console)
+![Libraries.io dependency status for latest release, scoped npm package](https://img.shields.io/librariesio/release/npm/rc-crud) ![npm](https://img.shields.io/npm/dy/rc-crud) 
 [![](https://img.shields.io/github/languages/code-size/badges/shields.svg)](https://github.com/maviniciuus/rc-console) 
 [![](https://img.shields.io/npm/dw/localeval.svg)](https://www.npmjs.com/package/rc-console) 
 [![](https://img.shields.io/github/last-commit/google/skia.svg)](https://github.com/maviniciuus/rc-console) 
@@ -8,12 +9,14 @@
 
 Utilitário de debug para imprimir mensagens formatadas no console.
   
-
 ## Comece agora:
 Instale no seu aplicativo e comece a usar agora:  
   
 `yarn add rc-console` ou `npm i rc-console` ou `npm install --save rc-console`  
   
+## DOC  
+Leia a documentação [AQUI](docs/DOC.md).  
+
 ## Contribuindo:
 Para clonar o projeto e fazer uma alteração ou nova implementação:  
   
@@ -37,7 +40,7 @@ Versionamento [SemVer](http://semver.org/). Para visualizar as versões disponí
 
 ## Contribuições
 
-Leia o guia de contribuições: [CONTRIBUTING.md](CONTRIBUTING.md).
+Leia o guia de contribuições [AQUI](CONTRIBUTING.md).
 
 ## Licença
 
