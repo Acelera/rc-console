@@ -29,7 +29,7 @@ Para clonar o projeto e fazer uma alteração ou nova implementação:
 
 ## Versionamento
 
-Versionamento [SemVer](http://semver.org/). Para visualizar as versões disponíveis olhe em: [tags on this repository](https://github.com/maviniciuus/af-super-console/tags). 
+Versionamento [SemVer](http://semver.org/). Para visualizar as versões disponíveis olhe em: [tags on this repository](https://github.com/Acelera/rc-console/tags). 
 
 ## Autor
 
