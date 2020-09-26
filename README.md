@@ -33,7 +33,7 @@ Versionamento [SemVer](http://semver.org/). Para visualizar as versões disponí
 
 ## Autor
 
-* **Marcus Vinícius Mendes Gonçalves (@maviniciuus)** - *Desenvolvimento dos protótipos, versão final e testes.* - [maviniciuus](https://github.com/maviniciuus)
+* **Marcus Vinícius Mendes Gonçalves - [@maviniciuus](https://github.com/maviniciuus)** - *Desenvolvimento dos protótipos, versão final e testes.*
 
 ## Contribuições
 
