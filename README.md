@@ -7,7 +7,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/acelera/rc-console)
 ![GitHub issues](https://img.shields.io/github/issues/acelera/rc-console)
 
-Utilitário de debug para imprimir mensagens formatadas no console.
+Utilitário de debug para imprimir mensagens formatadas no console.    
   
 ## Comece agora:
 Instale no seu aplicativo e comece a usar agora:  
@@ -15,7 +15,21 @@ Instale no seu aplicativo e comece a usar agora:
 `yarn add rc-console` ou `npm i rc-console` ou `npm install --save rc-console`  
   
 ## DOC  
-Leia a documentação [AQUI](docs/DOC.md).  
+Leia a documentação [AQUI](docs/DOC.md).
+
+## Exemplos  
+```js
+import Console from './Console';
+
+Console.newLine();
+Console.log('Mensagem do tipo Log!');
+Console.info('Mensagem do tipo INFORMAÇÃO!');
+Console.war('Mensagem do tipo ALERTA!');
+Console.err('Mensagem do tipo ERRO!');
+Console.ok('Mensagem do tipo SUCESSO!');
+Console.newLine();
+```  
+![Demo](docs/demo1.png)  
 
 ## Contribuindo:
 Para clonar o projeto e fazer uma alteração ou nova implementação:  
