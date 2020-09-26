@@ -10,13 +10,13 @@ Utilitário de debug para imprimir mensagens formatadas no console.
   
 
 ## Comece agora:
-Instale no seu aplicativo e comece a usar agora:
+Instale no seu aplicativo e comece a usar agora:  
 `yarn add rc-console`  
-`npm i rc-console`
+`npm i rc-console`  
 `npm install --save rc-console`  
   
 ## Contribuindo:
-Para clonar o projeto e fazer uma alteração ou nova implementação:
+Para clonar o projeto e fazer uma alteração ou nova implementação:  
 `git clone https://github.com/Acelera/rc-console && cd rc-console`  
 `yarn && yarn test`  
 
