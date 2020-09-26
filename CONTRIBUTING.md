@@ -43,4 +43,6 @@ Mensagem descritiva representando de forma objetiva e clara a intenção daquele
 
 *Lembre-se que temos um tratamento de `pre-push` hook para evitar enviar código fora de padrão.*
 
-**Depois que o seu `pull request` for merged**, você pode deletar seu branch seu problemas.
+**Depois que o seu `pull request` for merged**, você pode deletar seu branch seu problemas.  
+  
+[Voltar](https://github.com/Acelera/rc-console)  
