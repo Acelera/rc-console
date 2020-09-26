@@ -19,15 +19,15 @@ Leia a documentação [AQUI](docs/DOC.md).
 
 ## Exemplos  
 ```js
-import Console from './Console';
+import Log from './Console';
 
-Console.newLine();
-Console.log('Mensagem do tipo Log!');
-Console.info('Mensagem do tipo INFORMAÇÃO!');
-Console.war('Mensagem do tipo ALERTA!');
-Console.err('Mensagem do tipo ERRO!');
-Console.ok('Mensagem do tipo SUCESSO!');
-Console.newLine();
+Log.newLine();
+Log.log('Mensagem do tipo Log!');
+Log.info('Mensagem do tipo INFORMAÇÃO!');
+Log.war('Mensagem do tipo ALERTA!');
+Log.err('Mensagem do tipo ERRO!');
+Log.ok('Mensagem do tipo SUCESSO!');
+Log.newLine();
 ```  
 ![Demo](docs/demo1.png)  
 
