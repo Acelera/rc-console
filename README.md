@@ -16,6 +16,7 @@ Instale no seu aplicativo e comece a usar agora:
   
 ## Contribuindo:
 Para clonar o projeto e fazer uma alteração ou nova implementação:  
+  
 `git clone https://github.com/Acelera/rc-console && cd rc-console`  
 `yarn && yarn test`  
 
@@ -32,7 +33,7 @@ Versionamento [SemVer](http://semver.org/). Para visualizar as versões disponí
 
 ## Autor
 
-* **Marcus V. Mendes Gonçalves** - *Desenvolvimento dos protótipos, versão final e testes.* - [maviniciuus](https://github.com/maviniciuus)
+* **Marcus Vinícius Mendes Gonçalves (@maviniciuus)** - *Desenvolvimento dos protótipos, versão final e testes.* - [maviniciuus](https://github.com/maviniciuus)
 
 ## Contribuições
 
