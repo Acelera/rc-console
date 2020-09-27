@@ -37,6 +37,8 @@ Para clonar o projeto e fazer uma alteração ou nova implementação:
 `git clone https://github.com/Acelera/rc-console && cd rc-console`  
 `yarn && yarn test`  
 
+Leia o guia de contribuições [AQUI](CONTRIBUTING.md).
+
 ## Build e Publicação:
 * Para publicar uma nova versão, você precisa alterar no `package.json` a prop `version` de acordo com o SEMVER.
 * Depois fazer as alterações necessárias, como um FIX ou ADD, fazer e salvar com um commit atômico vinculado com a issue do github através da #hashtag.
@@ -51,10 +53,6 @@ Versionamento [SemVer](http://semver.org/). Para visualizar as versões disponí
 ## Autor
 
 * **Marcus Vinícius Mendes Gonçalves - [@maviniciuus](https://github.com/maviniciuus)** - *Desenvolvimento dos protótipos, versão final e testes.*
-
-## Contribuições
-
-Leia o guia de contribuições [AQUI](CONTRIBUTING.md).
 
 ## Licença
 
