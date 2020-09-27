@@ -19,7 +19,7 @@ Leia a documentação [AQUI](docs/DOC.md).
 
 ## Exemplos  
 ```js
-import Log from './Console';
+import Log from 'rc-console';
 
 Log.newLine();
 Log.log('Mensagem do tipo Log!');
