@@ -1,6 +1,6 @@
 {
   "name": "rc-console",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "Biblioteca que facilita o print e debug de itens no console.",
   "author": "Marcus Vinicius Mendes Goncalves <marcus@acelera.cloud>",
   "license": "MIT",
@@ -9,7 +9,7 @@
     "start": "nodemon -w src -x \"babel-node src --presets @babel/env\"",
     "build-node": "babel ./src --presets @babel/env --out-dir ./dist --source-maps --copy-files",
     "build": "yarn clear && yarn run build-node",
-    "clear": "rimraf lib",
+    "clear": "rimraf dist",
     "lint": "./node_modules/.bin/eslint src/*.js",
     "test": "babel-node src/Test.js --presets @babel/env"
   },
