@@ -1,4 +1,6 @@
-import Log from '../dist';
+import Console from '../dist';
+
+const Log = new Console();
 
 Log.newLine();
 Log.log('Mensagem do tipo Log!');
