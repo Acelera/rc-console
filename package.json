@@ -1,6 +1,6 @@
 {
   "name": "rc-console",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "Biblioteca que facilita o print e debug de itens no console.",
   "author": "Marcus Vinicius Mendes Goncalves <marcus@acelera.cloud>",
   "license": "MIT",
@@ -10,7 +10,6 @@
     "build-node": "mkdir dist && cp -Rpv ./src/* ./dist",
     "build": "yarn clear && yarn run build-node",
     "clear": "rimraf dist",
-    "lint": "./node_modules/.bin/eslint src/*.js",
     "test": "babel-node tests/Test.js --presets @babel/env"
   },
   "repository": {
