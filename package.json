@@ -1,6 +1,6 @@
 {
   "name": "rc-console",
-  "version": "0.6.4",
+  "version": "0.6.5",
   "description": "Biblioteca que facilita o print e debug de itens no console.",
   "author": "Marcus Vinicius Mendes Goncalves <marcus@acelera.cloud>",
   "license": "MIT",
