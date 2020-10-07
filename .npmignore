@@ -1,7 +1,10 @@
 src/
 tests/
+docs/
 .idea/
 .github/
 .babelrc/
 .editorconfig
 .gitignore
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
