@@ -1,8 +1,7 @@
 # rc-console
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/acelera/rc-console)
-![Libraries.io dependency status for latest release, scoped npm package](https://img.shields.io/librariesio/release/npm/rc-console) ![npm](https://img.shields.io/npm/dy/rc-crud) 
+![Libraries.io dependency status for latest release, scoped npm package](https://img.shields.io/librariesio/release/npm/rc-console) ![npm](https://img.shields.io/npm/dy/rc-console) 
 [![](https://img.shields.io/github/languages/code-size/badges/shields.svg)](https://github.com/acelera/rc-console) 
-[![](https://img.shields.io/npm/dw/localeval.svg)](https://www.npmjs.com/package/rc-console) 
 [![](https://img.shields.io/github/last-commit/google/skia.svg)](https://github.com/acelera/rc-console) 
 ![GitHub Repo stars](https://img.shields.io/github/stars/acelera/rc-console)
 ![GitHub issues](https://img.shields.io/github/issues/acelera/rc-console)
