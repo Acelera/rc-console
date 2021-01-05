@@ -1,4 +1,4 @@
-# rc-console
+# rc-console v0
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/acelera/rc-console)
 ![Libraries.io dependency status for latest release, scoped npm package](https://img.shields.io/librariesio/release/npm/rc-console) ![npm](https://img.shields.io/npm/dy/rc-console) 
 [![](https://img.shields.io/github/languages/code-size/badges/shields.svg)](https://github.com/acelera/rc-console) 
